@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\MediCheck-Beta-BackEnd\\API\\API.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\Proyectos\\Proyectos En Desarrollo\\MediCheck-Beta-BackEnd\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\MediCheck-Beta-BackEnd\\API\\API.csproj": {
+    "C:\\Users\\DELL\\Desktop\\Proyectos\\Proyectos En Desarrollo\\MediCheck-Beta-BackEnd\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\MediCheck-Beta-BackEnd\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Proyectos\\Proyectos En Desarrollo\\MediCheck-Beta-BackEnd\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\MediCheck-Beta-BackEnd\\API\\API.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\Proyectos\\Proyectos En Desarrollo\\MediCheck-Beta-BackEnd\\API.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\MediCheck-Beta-BackEnd\\API\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\Proyectos\\Proyectos En Desarrollo\\MediCheck-Beta-BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,20 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
